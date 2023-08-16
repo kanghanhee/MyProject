@@ -29,6 +29,9 @@
 - Git Actions
 - Slack Webhook
 
+# ERD
+![bbang_map_erd](https://user-images.githubusercontent.com/76844556/168024339-ecc7f962-78f0-410b-ab13-97252f9bc00b.png)
+
 # Foldering
 ```
 🗂 BBangMap-Server
