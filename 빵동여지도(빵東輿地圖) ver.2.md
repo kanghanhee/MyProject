@@ -32,6 +32,10 @@
 - Ioredis 5.3.2
 - AWS EB, ElastiCache
 
+# ERD
+![Untitled (1)](https://github.com/kanghanhee/MyProject/assets/68781598/7b80ec91-bfdd-479a-894b-f31bcffe4a7f)
+
+
 # Convention
 - [Commit Convention](https://github.com/bbangmap/BBangMap-Server-Docs/wiki/Commit-Convention)
 - [Coding Convention](https://github.com/bbangmap/BBangMap-Server-Docs/wiki/Coding-Convention)
