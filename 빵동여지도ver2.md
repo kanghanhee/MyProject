@@ -1,6 +1,7 @@
 # BBangMap Server
 > 🥐 당신의 후회없는 빵 선택을 도와줄 브레드 맵, 지도기반 **빵집 추천** 앱 서비스 version 2.0.0
 - 앱 출시 [iOS](https://apps.apple.com/kr/app/%EB%B9%B5%EB%8F%99%EC%97%AC%EC%A7%80%EB%8F%84/id1595032110), [AOS](https://play.google.com/store/apps/details?id=bbangmap.com&pli=1)
+- 깃허브 [Github](https://github.com/kanghanhee/BBangMap-Server) 
 
 
 ![표지](https://user-images.githubusercontent.com/76844556/168022567-8200bb68-92b7-43f3-8143-2ee08b0591be.png)
